@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SumaDelMultiplicandoCuandoElMultiplicadorEsImpar",
+            "request": "launch",
+            "mainClass": "edu.mx.uttt.ciclos_recursividad.SumaDelMultiplicandoCuandoElMultiplicadorEsImpar",
+            "projectName": "ProyectoPrincipal_e5e6e7f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "DivisionConFactorial",
+            "request": "launch",
+            "mainClass": "edu.mx.uttt.ciclos_recursividad.DivisionConFactorial",
+            "projectName": "ProyectoPrincipal_e5e6e7f"
+        },
+        {
+            "type": "java",
+            "name": "SerieConConstante1",
+            "request": "launch",
+            "mainClass": "edu.mx.uttt.ciclos_recursividad.SerieConConstante1",
+            "projectName": "ProyectoPrincipal_e5e6e7f"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "edu.mx.uttt.principal.Principal",
+            "projectName": "ProyectoPrincipal_e5e6e7f"
+        }
+    ]
+}
